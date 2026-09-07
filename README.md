@@ -1,6 +1,6 @@
 #  Iris Flower Classification
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a basic Machine Learning classification project using the famous Iris Flower dataset.
 
