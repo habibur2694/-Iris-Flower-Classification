@@ -16,7 +16,7 @@ This project is implemented using Python and Scikit-learn in Google Colab.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of this project are:
 
